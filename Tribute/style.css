@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+    border-style:border-box;
+    
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+
+}
+.head{
+    padding:25px;
+    text-align: center;
+}
+
+.desc{
+  margin:10px;
+  font-size: 15px;
+}
+
+.title{
+  font-size: 35px;
+  font-weight: bolder;
+}
+
+img{
+  padding: 10px;
+  max-width: 840px;
+  max-height: 380px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.bio{
+  padding:20px;
+  margin:10px;
+  max-width:50rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-size:  17px;
+  line-height:1.2;
+}
+
+.bio h2{
+  line-height: 1.2;
+  margin-top: auto;
+  text-align:center;
+}
+ 
